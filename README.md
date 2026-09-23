@@ -1,88 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=ABIR%20PRAMANICK&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Applied%20AI&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A24,35:0F3440,70:1B5E68,100:2C5364&height=240&section=header&text=ABIR%20PRAMANICK&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DATA%20ANALYTICS%20%20%E2%80%A2%20%20PYTHON%20%20%E2%80%A2%20%20SQL%20%20%E2%80%A2%20%20POWER%20BI%20%20%E2%80%A2%20%20APPLIED%20AI&descAlignY=58&descSize=17"/>
+
+<h2>Turning Data into Insights & Building Intelligent Systems</h2>
+
+<p>
+  <b>B.Tech Computer Science & Engineering Student</b>
+  <br><br>
+  Data Analytics • Business Intelligence • Machine Learning • Applied AI
+</p>
+
+<br>
 
 <a href="https://github.com/Abir-2005">
 <img src="https://img.shields.io/badge/GitHub-Abir--2005-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/abir-pramanick-bb663a31b">
 <img src="https://img.shields.io/badge/LinkedIn-Abir%20Pramanick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="mailto:abirpramanick1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Abir-2005&style=for-the-badge&color=203A43&label=PROFILE+VIEWS"/>
+<a href="https://leetcode.com/u/Abir_Pramanick/">
+<img src="https://img.shields.io/badge/LeetCode-Abir__Pramanick-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/abirpramanick1">
+<img src="https://img.shields.io/badge/HackerRank-abirpramanick1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Abir-2005&style=for-the-badge&color=1B5E68&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Abir
+<div align="center">
 
-🎓 **B.Tech Computer Science & Engineering Student**
+### 👋 Welcome to my GitHub
 
-📊 **Data Analytics | Python | SQL | Power BI | Tableau**
+**Data • Intelligence • Visualization • AI**
 
-🤖 **Applied AI | Machine Learning | LLMs | GraphRAG**
-
-I enjoy working with data — from **cleaning raw datasets and writing SQL queries** to building **interactive dashboards, exploratory analysis workflows, and AI-driven applications**.
-
-My projects combine practical data analysis with emerging AI technologies, with a particular interest in turning complex data into **clear, useful, and explainable insights**.
+</div>
 
 ---
 
-## 🚀 What I Work On
+## 🧑‍💻 About Me
+
+Hi, I'm **Abir Pramanick**, a **B.Tech Computer Science & Engineering student** interested in transforming data into meaningful insights and building practical intelligent systems.
+
+My primary focus is **Data Analytics and Business Intelligence**, where I work with **Python, SQL, Power BI, Excel, Tableau, Pandas, and NumPy** to explore data, identify patterns, create visualizations, and communicate insights.
+
+Alongside analytics, I explore **Machine Learning, LLM applications, GraphRAG, and AI-driven cybersecurity systems** through academic and personal projects.
+
+I enjoy working through the complete data journey:
 
 ```text
-Raw Data
-    ↓
-Data Cleaning & Preparation
-    ↓
-Exploratory Data Analysis
-    ↓
-SQL / Statistical Analysis
-    ↓
-Visualization & Dashboards
-    ↓
-Machine Learning / Applied AI
-    ↓
-Actionable & Explainable Insights
+                 RAW DATA
+                    │
+                    ▼
+          ┌──────────────────┐
+          │ Data Preparation │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │ Exploratory      │
+          │ Data Analysis    │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │ SQL / Statistical│
+          │ Analysis         │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │ Visualization &  │
+          │ Dashboarding     │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │ Machine Learning │
+          │ / Applied AI     │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │ Actionable       │
+          │ Insights         │
+          └──────────────────┘
 ```
 
-### 📊 Data Analytics
+### 🎯 My Core Direction
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis
-* SQL & Relational Databases
-* Excel
-* Power BI
-* Tableau
-* Data Visualization
-* Dashboard Development
+> **Data Analytics + Business Intelligence + Applied AI**
 
-### 🤖 Applied AI
+---
 
-* Python-based Machine Learning
-* Feature Engineering
-* Model Evaluation
-* LLM Applications
-* GraphRAG
-* AI-assisted Data Analysis
+# 💡 What I Work On
 
-### 🛡️ AI + Cybersecurity
+<table>
+<tr>
 
-* Threat Intelligence
-* Multi-Agent Systems
-* Graph-based Retrieval
-* Explainable AI
-* LLM-assisted Cyber Defense
+<td width="33%" align="center">
+
+<h3>📊 DATA ANALYTICS</h3>
+
+Python
+SQL
+Pandas
+NumPy
+Excel
+EDA
+Statistics
+Data Visualization
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>📈 BUSINESS INTELLIGENCE</h3>
+
+Power BI
+Tableau
+Dashboard Design
+KPI Analysis
+Reporting
+Data Storytelling
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🤖 APPLIED AI</h3>
+
+Machine Learning
+LLM Applications
+GraphRAG
+Multi-Agent Systems
+AI + Cybersecurity
+Explainable AI
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🛠️ Technical Stack
 
-### Languages
+## 👨‍💻 Programming & Querying
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -90,7 +168,7 @@ Actionable & Explainable Insights
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### Data Analysis & Visualization
+## 📊 Data Analysis & Visualization
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -101,16 +179,16 @@ Actionable & Explainable Insights
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### AI / ML / LLM
+## 🤖 Machine Learning & AI
 
 <p>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GraphRAG-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-### Tools
+## 🔧 Tools & Development
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -121,60 +199,58 @@ Actionable & Explainable Insights
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## ☕ Coffee Shop Sales Dashboard
+<h2>☕ Coffee Shop Sales Dashboard</h2>
 
-**Power BI | Data Analytics**
+<b>Power BI • Data Analytics</b>
 
-An interactive dashboard for exploring coffee shop sales performance through revenue, quantity, profit, and transaction-related metrics.
+<br><br>
 
-🔗 **[View Repository](https://github.com/Abir-2005/Coffee_Shop_Dashboard)**
+Interactive business dashboard designed to analyze:
 
-</td>
+* Revenue
+* Quantity sold
+* Profit
+* Transaction trends
+* Product performance
 
-<td width="50%" valign="top">
+<a href="https://github.com/Abir-2005/Coffee_Shop_Dashboard">
 
-## ❤️ Heart Disease EDA
+<b>🔗 View Repository →</b>
 
-**Python | Pandas | Visualization**
-
-An exploratory data analysis project focused on data cleaning, visualization, and feature analysis to understand patterns within a heart disease dataset.
-
-🔗 **[View Repository](https://github.com/Abir-2005/EDA-Heart-Disease)**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 👥 HR Analytics Dashboard
-
-**Power BI | HR Analytics**
-
-An interactive dashboard designed to analyze workforce information including headcount, attrition trends, and employee demographics.
-
-🔗 **[View Repository](https://github.com/Abir-2005/CodeAlpha_HR_Analytics)**
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛡️ Adaptive Multi-Agent Cyber Defense
+<h2>❤️ Heart Disease EDA</h2>
 
-**GraphRAG | LLM | Multi-Agent AI**
+<b>Python • Pandas • Data Visualization</b>
 
-A collaborative academic research project focused on explainable real-time cyber threat intelligence using GraphRAG, LLMs, and multi-agent architecture.
+<br><br>
 
-🔗 **[View Project](https://github.com/anus05/Adaptive-Multi-Agent-Cyber-Defense)**
+Exploratory data analysis covering:
+
+* Data cleaning
+* Feature exploration
+* Pattern identification
+* Visualization
+* Dataset insights
+
+<a href="https://github.com/Abir-2005/EDA-Heart-Disease">
+
+<b>🔗 View Repository →</b>
+
+</a>
 
 </td>
 
@@ -184,136 +260,302 @@ A collaborative academic research project focused on explainable real-time cyber
 
 <td width="50%" valign="top">
 
-## 🔢 Python Calculator
+<h2>👥 HR Analytics Dashboard</h2>
 
-**Python | Modular Programming**
+<b>Power BI • HR Analytics</b>
 
-A simple Python calculator demonstrating modular programming and basic error handling.
+<br><br>
 
-🔗 **[View Repository](https://github.com/Abir-2005/Calculator_Python)**
+Interactive workforce dashboard covering:
+
+* Headcount
+* Attrition trends
+* Employee demographics
+* Workforce analysis
+
+<a href="https://github.com/Abir-2005/CodeAlpha_HR_Analytics">
+
+<b>🔗 View Repository →</b>
+
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔐 Password Generator
+<h2>🛡️ Adaptive Multi-Agent Cyber Defense</h2>
 
-**Python | CLI**
+<b>GraphRAG • LLM • Multi-Agent AI</b>
 
-A command-line Python project for generating random passwords using configurable character sets.
+<br><br>
 
-🔗 **[View Repository](https://github.com/Abir-2005/Password-Generator-Python)**
+Collaborative academic research project focused on explainable real-time cyber threat intelligence.
+
+<a href="https://github.com/anus05/Adaptive-Multi-Agent-Cyber-Defense">
+
+<b>🔗 Explore Project →</b>
+
+</a>
 
 </td>
 
 </tr>
 </table>
 
----
-
-# 🧠 Current Learning
-
-I'm currently strengthening my skills in:
-
-* Advanced SQL
-* Data Analytics
-* Statistical Analysis
-* Machine Learning
-* Data Visualization
-* AI / LLM Applications
-* GraphRAG & Knowledge Graphs
-* DSA with C++
+</div>
 
 ---
 
 # 🔬 Research & AI Work
 
-### Adaptive Multi-Agent Cyber Defense
+## 🛡️ Adaptive Multi-Agent Cyber Defense
 
-One of my major academic projects explores the integration of:
+### GraphRAG • LLM • Multi-Agent Systems • Cyber Threat Intelligence
+
+A collaborative academic project exploring an AI-based approach to **explainable real-time cyber threat intelligence**.
+
+The project combines multiple intelligent components:
 
 ```text
-Detection Agent
-      ↓
-Threat Intelligence
-      ↓
-GraphRAG Retrieval
-      ↓
-LLM Reasoning
-      ↓
-Explainable Threat Intelligence
-      ↓
-Adaptive Cyber Defense
+                    ┌─────────────────────┐
+                    │   Detection Agent   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Threat Intelligence │
+                    │       Agent         │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      GraphRAG       │
+                    │     Retrieval       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    LLM Reasoning    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    Explainable      │
+                    │ Threat Intelligence │
+                    └─────────────────────┘
 ```
 
-The project combines **multi-agent architecture, GraphRAG, knowledge graphs, and LLM-based reasoning** to support explainable cyber threat intelligence.
+### 🔍 My Contribution
 
-This is a collaborative research project rather than an individual project.
+My work focuses on the **Multi-Agent LLM + Adaptive Defense** side of the project, including the integration of agent workflows, LLM reasoning, and threat-intelligence processing.
 
-🔗 **[Explore the Project →](https://github.com/anus05/Adaptive-Multi-Agent-Cyber-Defense)**
+The overall research combines:
+
+* Multi-Agent Architecture
+* GraphRAG
+* Knowledge Graphs
+* LLM Reasoning
+* Threat Intelligence
+* Explainable AI
+
+🔗 **[Explore the Research Project →](https://github.com/anus05/Adaptive-Multi-Agent-Cyber-Defense)**
 
 ---
 
-# 📈 GitHub Activity
+# 📌 Other Projects
+
+### 🔢 Python Calculator
+
+A Python project demonstrating basic programming concepts, calculations, and structured implementation.
+
+🔗 **[View Repository →](https://github.com/Abir-2005/Calculator_Python)**
+
+---
+
+# 🧠 Current Learning
+
+I'm continuously improving my skills in:
+
+### 📊 Data Analytics
+
+* Advanced SQL
+* Data Cleaning
+* Exploratory Data Analysis
+* Statistical Analysis
+* Data Visualization
+
+### 🤖 Artificial Intelligence
+
+* Machine Learning
+* Feature Engineering
+* Model Evaluation
+* LLM Applications
+* GraphRAG
+
+### 💻 Computer Science
+
+* Data Structures & Algorithms
+* C++
+* Problem Solving
+* Programming Fundamentals
+
+---
+
+# 🧩 Problem Solving
+
+I use coding platforms to strengthen my algorithmic thinking and programming fundamentals.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abir-2005&show_icons=true&hide_border=true&bg_color=0F2027&title_color=6FE3C4&icon_color=6FE3C4&text_color=C9D1D9&rank_icon=github" height="170"/>
+<a href="https://leetcode.com/u/Abir_Pramanick/">
+<img src="https://img.shields.io/badge/LeetCode-Abir__Pramanick-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abir-2005&hide_border=true&background=0F2027&ring=6FE3C4&fire=6FE3C4&currStreakLabel=6FE3C4&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170"/>
+<a href="https://www.hackerrank.com/profile/abirpramanick1">
+<img src="https://img.shields.io/badge/HackerRank-abirpramanick1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+### Focus Areas
+
+```text
+Data Structures
+Algorithms
+Problem Solving
+C++
+Python
+SQL
+```
+
+---
+
+# 📚 Learning & Certifications
+
+My learning journey includes hands-on projects, technical courses, academic work, and industry-oriented certifications.
+
+### Areas of Development
+
+| Area                | Focus                             |
+| :------------------ | :-------------------------------- |
+| 🐍 Python           | Data Analysis & Programming       |
+| 🗄️ SQL             | Queries & Data Analysis           |
+| 📊 Power BI         | Dashboard & Business Intelligence |
+| 📈 Tableau          | Data Visualization                |
+| 🤖 Machine Learning | Applied ML                        |
+| 🧠 AI / LLM         | Intelligent Applications          |
+| 🛡️ Cybersecurity   | AI-assisted Threat Intelligence   |
+| ☁️ Cloud            | Data & AI Technologies            |
+| 💻 DSA              | C++ & Problem Solving             |
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abir-2005&show_icons=true&hide_border=true&bg_color=071A24&title_color=6FE3C4&icon_color=6FE3C4&text_color=C9D1D9&rank_icon=github" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abir-2005&hide_border=true&background=071A24&ring=6FE3C4&fire=6FE3C4&currStreakLabel=6FE3C4&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180"/>
 
 </div>
 
 ---
 
-# 🎯 Career Direction
+# 🎯 Career Focus
 
-I'm interested in opportunities where I can apply:
+I'm interested in opportunities where I can combine **data, technology, and problem-solving**.
 
-**Data → Analysis → Visualization → Intelligence → AI**
+### Areas I'm building toward:
 
-Especially in areas involving:
+**📊 Data Analytics**
 
-* Data Analytics
-* Business Intelligence
-* SQL & Reporting
-* Python-based Analytics
-* Machine Learning
-* Applied AI
-* AI-driven Security & Threat Intelligence
+**📈 Business Intelligence**
+
+**🐍 Python & SQL**
+
+**🤖 Applied AI**
+
+**🧠 Machine Learning**
+
+**🛡️ AI + Cybersecurity**
+
+My approach is simple:
+
+```text
+              DATA
+                ↓
+             ANALYZE
+                ↓
+           UNDERSTAND
+                ↓
+           VISUALIZE
+                ↓
+           BUILD AI
+                ↓
+          CREATE VALUE
+```
 
 ---
 
-# 🤝 Let's Connect
-
-I'm always interested in connecting with people working on:
-
-📊 **Data Analytics**
-
-🤖 **Artificial Intelligence**
-
-🧠 **Machine Learning & LLMs**
-
-🛡️ **Cybersecurity & AI**
-
-📈 **Business Intelligence**
-
-<br>
+# 📬 Contact Me
 
 <div align="center">
 
-<a href="https://github.com/Abir-2005">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### Let's Connect 🤝
+
+Interested in **Data Analytics, Business Intelligence, Python, AI, Machine Learning, or Cybersecurity?**
+
+Feel free to connect with me.
+
+<br>
+
+<a href="mailto:abirpramanick1@gmail.com">
+<img src="https://img.shields.io/badge/Email-abirpramanick1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abir-pramanick-bb663a31b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="tel:+916296636091">
+<img src="https://img.shields.io/badge/Phone-%2B91%206296636091-203A43?style=for-the-badge&logo=phone&logoColor=white"/>
 </a>
 
 <br><br>
 
-**Thanks for visiting my profile! ⭐**
+<a href="https://www.linkedin.com/in/abir-pramanick-bb663a31b">
+<img src="https://img.shields.io/badge/LinkedIn-Abir%20Pramanick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Abir-2005">
+<img src="https://img.shields.io/badge/GitHub-Abir--2005-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/Abir_Pramanick/">
+<img src="https://img.shields.io/badge/LeetCode-Abir__Pramanick-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/abirpramanick1">
+<img src="https://img.shields.io/badge/HackerRank-abirpramanick1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+## 💭 Learn • Build • Analyze • Improve
+
+<br>
+
+⭐ **Thanks for visiting my profile!**
+
+If you find something useful or interesting in my repositories, feel free to explore, connect, or collaborate.
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,35:1B5E68,70:0F3440,100:071A24&height=140&section=footer"/>
+
+</div>
